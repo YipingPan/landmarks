@@ -8,7 +8,7 @@ const MODEL_PATH =
     'https://yipingpan.github.io/landmarks/model.json';
 
 const IMAGE_SIZE = 192;
-const TOPK_PREDICTIONS = 5;
+const TOPK_PREDICTIONS = 3;
 
 let my_model;
 const demo = async () => {
