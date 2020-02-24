@@ -5,7 +5,7 @@ CLASSES = {
 };
 
 const MODEL_PATH =
-    'https://github.com/YipingPan/landmarks/model.json';
+    'https://yipingpan.github.io/landmarks/model.json';
 
 const IMAGE_SIZE = 192;
 const TOPK_PREDICTIONS = 5;
